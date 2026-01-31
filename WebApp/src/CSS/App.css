@@ -13,3 +13,21 @@
     font-family: sans-serif;
     color: red;
 }
+
+.student table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 200px;
+    margin: 10px 0;
+}
+.student table th,
+.student table td{
+    border: 1px solid black;
+    padding: 5px;
+    font-size: 18px;
+    font-family: sans-serif;
+
+}
+.student table th{
+    text-align: left;
+}
